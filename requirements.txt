@@ -1,0 +1,10 @@
+nibabel
+monai
+torch
+torch-geometric
+scikit-image
+
+numpy
+matplotlib
+pandas
+scikit-learn
